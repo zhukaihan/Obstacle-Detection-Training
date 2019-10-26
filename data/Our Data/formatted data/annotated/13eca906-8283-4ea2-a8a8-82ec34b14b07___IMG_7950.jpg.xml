@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>13eca906-8283-4ea2-a8a8-82ec34b14b07___IMG_7950.jpg</filename>
+<path>formatted data\imgs\13eca906-8283-4ea2-a8a8-82ec34b14b07___IMG_7950.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Uplift</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>615.8266253869969</xmin>
+		<xmax>4027.8390092879254</xmax>
+		<ymin>1010.7730398899587</ymin>
+		<ymax>1530.7180192572216</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>532.6068111455108</xmin>
+		<xmax>690.7244582043343</xmax>
+		<ymin>8.319119669876203</ymin>
+		<ymax>3011.5213204951856</ymax>
+	</bndbox>
+</object>
+</annotation>

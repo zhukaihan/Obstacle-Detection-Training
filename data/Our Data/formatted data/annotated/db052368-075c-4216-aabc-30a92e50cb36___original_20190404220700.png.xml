@@ -1,0 +1,66 @@
+<annotation>
+<folder>imgs</folder>
+<filename>db052368-075c-4216-aabc-30a92e50cb36___original_20190404220700.png</filename>
+<path>formatted data\imgs\db052368-075c-4216-aabc-30a92e50cb36___original_20190404220700.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>108.0</xmin>
+		<xmax>274.0</xmax>
+		<ymin>55.0</ymin>
+		<ymax>226.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>54.0</xmin>
+		<xmax>124.0</xmax>
+		<ymin>6.0</ymin>
+		<ymax>66.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>179.0</xmin>
+		<xmax>252.0</xmax>
+		<ymin>4.0</ymin>
+		<ymax>99.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>125.0</xmin>
+		<xmax>163.0</xmax>
+		<ymin>0</ymin>
+		<ymax>72.0</ymax>
+	</bndbox>
+</object>
+</annotation>

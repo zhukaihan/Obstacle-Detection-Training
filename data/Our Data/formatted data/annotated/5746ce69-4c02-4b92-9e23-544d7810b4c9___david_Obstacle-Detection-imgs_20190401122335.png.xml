@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>5746ce69-4c02-4b92-9e23-544d7810b4c9___david_Obstacle-Detection-imgs_20190401122335.png</filename>
+<path>formatted data\imgs\5746ce69-4c02-4b92-9e23-544d7810b4c9___david_Obstacle-Detection-imgs_20190401122335.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>118.0</xmin>
+		<xmax>217.0</xmax>
+		<ymin>2.0</ymin>
+		<ymax>112.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>67.0</xmin>
+		<xmax>109.0</xmax>
+		<ymin>15.0</ymin>
+		<ymax>82.0</ymax>
+	</bndbox>
+</object>
+</annotation>

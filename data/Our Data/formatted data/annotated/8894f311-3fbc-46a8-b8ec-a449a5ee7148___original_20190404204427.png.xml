@@ -1,0 +1,53 @@
+<annotation>
+<folder>imgs</folder>
+<filename>8894f311-3fbc-46a8-b8ec-a449a5ee7148___original_20190404204427.png</filename>
+<path>formatted data\imgs\8894f311-3fbc-46a8-b8ec-a449a5ee7148___original_20190404204427.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>84.0</xmin>
+		<xmax>266.0</xmax>
+		<ymin>60.0</ymin>
+		<ymax>171.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>267.0</xmin>
+		<xmax>319.0</xmax>
+		<ymin>175.0</ymin>
+		<ymax>238.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1.0</xmin>
+		<xmax>88.0</xmax>
+		<ymin>168.0</ymin>
+		<ymax>235.0</ymax>
+	</bndbox>
+</object>
+</annotation>

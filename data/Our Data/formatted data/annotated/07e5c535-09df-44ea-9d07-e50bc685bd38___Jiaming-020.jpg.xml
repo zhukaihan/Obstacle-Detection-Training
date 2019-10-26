@@ -1,0 +1,53 @@
+<annotation>
+<folder>imgs</folder>
+<filename>07e5c535-09df-44ea-9d07-e50bc685bd38___Jiaming-020.jpg</filename>
+<path>formatted data\imgs\07e5c535-09df-44ea-9d07-e50bc685bd38___Jiaming-020.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1052.0223964165734</xmin>
+		<xmax>2876.1298992161255</xmax>
+		<ymin>600.2865671641791</ymin>
+		<ymax>1769.2656716417912</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1643.5027995520718</xmin>
+		<xmax>1995.6819708846585</xmax>
+		<ymin>1448.8119402985076</ymin>
+		<ymax>2902.1373134328355</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>8.920353982300885</xmin>
+		<xmax>4023.0796460176994</xmax>
+		<ymin>388.0353982300885</ymin>
+		<ymax>1231.0088495575221</ymax>
+	</bndbox>
+</object>
+</annotation>

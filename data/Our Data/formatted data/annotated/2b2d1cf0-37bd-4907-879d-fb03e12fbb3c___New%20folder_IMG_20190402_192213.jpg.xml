@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>2b2d1cf0-37bd-4907-879d-fb03e12fbb3c___New%20folder_IMG_20190402_192213.jpg</filename>
+<path>formatted data\imgs\2b2d1cf0-37bd-4907-879d-fb03e12fbb3c___New%20folder_IMG_20190402_192213.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>3648</width>
+	<height>2736</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>21.84431137724551</xmin>
+		<xmax>1987.8323353293413</xmax>
+		<ymin>245.74850299401197</ymin>
+		<ymax>1414.4191616766468</ymax>
+	</bndbox>
+</object>
+</annotation>

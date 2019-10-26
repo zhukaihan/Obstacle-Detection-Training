@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'Obstacle'
+}
+
+item {
+  id: 2
+  name: 'Pothole'
+}
+
+item {
+  id: 3
+  name: 'Edge'
+}
+
+item {
+  id: 4
+  name: 'Uplift'
+}

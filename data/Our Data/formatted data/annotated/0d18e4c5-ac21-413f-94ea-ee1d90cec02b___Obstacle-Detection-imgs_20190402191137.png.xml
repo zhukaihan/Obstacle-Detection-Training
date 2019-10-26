@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>0d18e4c5-ac21-413f-94ea-ee1d90cec02b___Obstacle-Detection-imgs_20190402191137.png</filename>
+<path>formatted data\imgs\0d18e4c5-ac21-413f-94ea-ee1d90cec02b___Obstacle-Detection-imgs_20190402191137.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>217.0</xmin>
+		<xmax>230.0</xmax>
+		<ymin>5.0</ymin>
+		<ymax>231.0</ymax>
+	</bndbox>
+</object>
+</annotation>

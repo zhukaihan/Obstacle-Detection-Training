@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>2231e20e-336c-4039-91d2-d16e794cfe35___IMG_5664.jpg</filename>
+<path>formatted data\imgs\2231e20e-336c-4039-91d2-d16e794cfe35___IMG_5664.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1234.2857142857142</xmin>
+		<xmax>3185.6326530612246</xmax>
+		<ymin>1550.1669902912622</ymin>
+		<ymax>2483.790291262136</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Uplift</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>834.6122448979592</xmin>
+		<xmax>1916.0816326530612</xmax>
+		<ymin>2589.483495145631</ymin>
+		<ymax>3006.3844660194172</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,105 @@
+<annotation>
+<folder>imgs</folder>
+<filename>8305ac71-1d8a-45d5-83ad-2add244ef1a2___obstacle%20pics%20_WechatIMG21.jpeg</filename>
+<path>formatted data\imgs\8305ac71-1d8a-45d5-83ad-2add244ef1a2___obstacle%20pics%20_WechatIMG21.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>866.089985486212</xmin>
+		<xmax>1328.3947750362845</xmax>
+		<ymin>17.547388781431334</ymin>
+		<ymax>2316.255319148936</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1972.11030478955</xmin>
+		<xmax>2276.412191582003</xmax>
+		<ymin>11.69825918762089</ymin>
+		<ymax>1503.2263056092843</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1919.4426705370101</xmin>
+		<xmax>3575.547169811321</xmax>
+		<ymin>1064.5415860735009</ymin>
+		<ymax>1801.5319148936169</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1457.1378809869377</xmin>
+		<xmax>2703.6052249637155</xmax>
+		<ymin>35.09477756286267</ymin>
+		<ymax>1204.9206963249517</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>11.703918722786648</xmin>
+		<xmax>1152.8359941944848</xmax>
+		<ymin>11.69825918762089</ymin>
+		<ymax>853.9729206963249</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>11.703918722786648</xmin>
+		<xmax>474.0087082728592</xmax>
+		<ymin>2462.483558994197</ymin>
+		<ymax>3006.4526112185686</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>3540.435413642961</xmin>
+		<xmax>4020.296081277213</xmax>
+		<ymin>23.39651837524178</ymin>
+		<ymax>1456.4332688588006</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,92 @@
+<annotation>
+<folder>imgs</folder>
+<filename>8ce87bf1-86ee-4465-88b4-1874ed1e8c8e___IMG-6417.JPG</filename>
+<path>formatted data\imgs\8ce87bf1-86ee-4465-88b4-1874ed1e8c8e___IMG-6417.JPG</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1058.8010610079575</xmin>
+		<xmax>2556.0954907161804</xmax>
+		<ymin>929.6395759717315</ymin>
+		<ymax>2591.236749116608</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>3807.4058355437664</xmin>
+		<xmax>4032</xmax>
+		<ymin>502.2190812720848</ymin>
+		<ymax>1335.6890459363956</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1700.4986737400532</xmin>
+		<xmax>2208.5092838196288</xmax>
+		<ymin>395.36395759717317</ymin>
+		<ymax>913.6113074204947</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>17.84070796460177</xmin>
+		<xmax>1235.4690265486727</xmax>
+		<ymin>26.761061946902654</ymin>
+		<ymax>3001.6991150442477</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>3247.0088495575224</xmin>
+		<xmax>4005.2389380530976</xmax>
+		<ymin>31.221238938053098</ymin>
+		<ymax>1186.4070796460176</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2207.7876106194694</xmin>
+		<xmax>3202.4070796460173</xmax>
+		<ymin>807.29203539823</ymin>
+		<ymax>847.433628318584</ymax>
+	</bndbox>
+</object>
+</annotation>

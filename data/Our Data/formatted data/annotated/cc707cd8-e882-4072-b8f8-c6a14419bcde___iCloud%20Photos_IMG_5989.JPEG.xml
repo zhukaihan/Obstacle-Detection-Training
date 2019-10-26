@@ -1,0 +1,66 @@
+<annotation>
+<folder>imgs</folder>
+<filename>cc707cd8-e882-4072-b8f8-c6a14419bcde___iCloud%20Photos_IMG_5989.JPEG</filename>
+<path>formatted data\imgs\cc707cd8-e882-4072-b8f8-c6a14419bcde___iCloud%20Photos_IMG_5989.JPEG</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>2048</width>
+	<height>1536</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>931.1150442477868</xmin>
+		<xmax>2038.9380530973451</xmax>
+		<ymin>328.2591766063869</ymin>
+		<ymax>1275.4690265486724</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>4.530973451327434</xmin>
+		<xmax>251.46902654867256</xmax>
+		<ymin>49.84070796460177</ymin>
+		<ymax>1060.2477876106195</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>101.94690265486726</xmin>
+		<xmax>591.29203539823</xmax>
+		<ymin>4.530973451327434</ymin>
+		<ymax>425.9115044247788</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1053.4513274336284</xmin>
+		<xmax>2036.6725663716813</xmax>
+		<ymin>9.061946902654867</ymin>
+		<ymax>346.61946902654864</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>4bcfbae4-0441-496b-a024-44cb75a0afc5___Obstacle-Detection-imgs_20190402183057.png</filename>
+<path>formatted data\imgs\4bcfbae4-0441-496b-a024-44cb75a0afc5___Obstacle-Detection-imgs_20190402183057.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Uplift</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>217.0</xmin>
+		<xmax>314.0</xmax>
+		<ymin>3.0</ymin>
+		<ymax>69.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>217.0</xmin>
+		<xmax>314.0</xmax>
+		<ymin>3.0</ymin>
+		<ymax>69.0</ymax>
+	</bndbox>
+</object>
+</annotation>

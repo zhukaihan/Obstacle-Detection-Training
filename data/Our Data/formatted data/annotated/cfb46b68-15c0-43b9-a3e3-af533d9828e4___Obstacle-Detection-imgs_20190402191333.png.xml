@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>cfb46b68-15c0-43b9-a3e3-af533d9828e4___Obstacle-Detection-imgs_20190402191333.png</filename>
+<path>formatted data\imgs\cfb46b68-15c0-43b9-a3e3-af533d9828e4___Obstacle-Detection-imgs_20190402191333.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>101.0</xmin>
+		<xmax>171.0</xmax>
+		<ymin>19.0</ymin>
+		<ymax>210.0</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>a93d3d6d-a6eb-40a4-9582-a6dcb9df7e9c___Jiaming-026.jpg</filename>
+<path>formatted data\imgs\a93d3d6d-a6eb-40a4-9582-a6dcb9df7e9c___Jiaming-026.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1625.4423292273236</xmin>
+		<xmax>3314.0963045912654</xmax>
+		<ymin>126.37611940298508</ymin>
+		<ymax>2103.2597014925373</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>22.57558790593505</xmin>
+		<xmax>1313.8992161254198</xmax>
+		<ymin>505.50447761194033</ymin>
+		<ymax>1561.64776119403</ymax>
+	</bndbox>
+</object>
+</annotation>

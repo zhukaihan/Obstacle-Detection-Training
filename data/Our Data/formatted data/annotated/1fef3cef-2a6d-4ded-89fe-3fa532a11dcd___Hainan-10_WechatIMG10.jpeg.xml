@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>1fef3cef-2a6d-4ded-89fe-3fa532a11dcd___Hainan-10_WechatIMG10.jpeg</filename>
+<path>formatted data\imgs\1fef3cef-2a6d-4ded-89fe-3fa532a11dcd___Hainan-10_WechatIMG10.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2435.2566371681414</xmin>
+		<xmax>3132.646706586828</xmax>
+		<ymin>48.2874251497006</ymin>
+		<ymax>2470.938053097345</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>3500.532319391635</xmin>
+		<xmax>3986.0076045627375</xmax>
+		<ymin>1787.837837837838</ymin>
+		<ymax>2865.6486486486483</ymax>
+	</bndbox>
+</object>
+</annotation>

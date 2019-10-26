@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>723f3690-3ecd-44ae-a7a5-4ffaadef4e6e___IMG_5991.jpg</filename>
+<path>formatted data\imgs\723f3690-3ecd-44ae-a7a5-4ffaadef4e6e___IMG_5991.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1586.938775510204</xmin>
+		<xmax>3908.5714285714284</xmax>
+		<ymin>1309.4213592233011</ymin>
+		<ymax>3012.256310679612</ymax>
+	</bndbox>
+</object>
+</annotation>

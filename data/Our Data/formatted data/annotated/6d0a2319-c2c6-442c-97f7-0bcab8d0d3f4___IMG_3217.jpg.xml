@@ -1,0 +1,157 @@
+<annotation>
+<folder>imgs</folder>
+<filename>6d0a2319-c2c6-442c-97f7-0bcab8d0d3f4___IMG_3217.jpg</filename>
+<path>formatted data\imgs\6d0a2319-c2c6-442c-97f7-0bcab8d0d3f4___IMG_3217.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1604.0434353405726</xmin>
+		<xmax>2101.5755182625862</xmax>
+		<ymin>7.957894736842105</ymin>
+		<ymax>2474.9052631578948</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2949.3701875616975</xmin>
+		<xmax>4032</xmax>
+		<ymin>1030.5473684210526</ymin>
+		<ymax>1897.957894736842</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>611.0442477876106</xmin>
+		<xmax>825.1327433628319</xmax>
+		<ymin>0</ymin>
+		<ymax>1052.6017699115046</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2989.1727541954588</xmin>
+		<xmax>3188.185587364265</xmax>
+		<ymin>692.3368421052631</ymin>
+		<ymax>1106.1473684210528</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2169.23988153998</xmin>
+		<xmax>2997.133267522211</xmax>
+		<ymin>27.852631578947367</ymin>
+		<ymax>413.8105263157895</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2491.640671273445</xmin>
+		<xmax>2579.2063178677195</xmax>
+		<ymin>354.1263157894737</ymin>
+		<ymax>958.9263157894736</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>3335.4550839091808</xmin>
+		<xmax>3669.796643632774</xmax>
+		<ymin>15.91578947368421</ymin>
+		<ymax>1838.2736842105264</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>55.72359328726555</xmin>
+		<xmax>4004.1382033563673</xmax>
+		<ymin>1213.578947368421</ymin>
+		<ymax>2172.5052631578947</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2141.3780848963474</xmin>
+		<xmax>4020.0592300098715</xmax>
+		<ymin>1615.4526315789474</ymin>
+		<ymax>2451.0315789473684</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>428.17699115044246</xmin>
+		<xmax>4008.1184600197435</xmax>
+		<ymin>915.1578947368421</ymin>
+		<ymax>1101.6637168141592</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>3822.371681415929</xmin>
+		<xmax>4023.0796460176994</xmax>
+		<ymin>2867.8938053097345</ymin>
+		<ymax>3010.619469026549</ymax>
+	</bndbox>
+</object>
+</annotation>

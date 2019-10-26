@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>6fc0cc5e-dbdf-4e80-ab3d-d0c4831d9d58___IMG_5666.jpg</filename>
+<path>formatted data\imgs\6fc0cc5e-dbdf-4e80-ab3d-d0c4831d9d58___IMG_5666.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>23.510204081632654</xmin>
+		<xmax>4008.4897959183672</xmax>
+		<ymin>1573.654368932039</ymin>
+		<ymax>2501.4058252427185</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+<folder>imgs</folder>
+<filename>83ef0a45-8eb6-4642-9bc2-1acf3f09bc2e___IMG_7931.jpg</filename>
+<path>formatted data\imgs\83ef0a45-8eb6-4642-9bc2-1acf3f09bc2e___IMG_7931.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1019.4427244582043</xmin>
+		<xmax>1572.8544891640868</xmax>
+		<ymin>12.478679504814304</ymin>
+		<ymax>3015.6808803301237</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Pothole</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1585.3374613003095</xmin>
+		<xmax>1943.1826625386996</xmax>
+		<ymin>378.51994497936727</ymin>
+		<ymax>1314.4209078404403</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Pothole</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2034.7244582043345</xmin>
+		<xmax>2983.4303405572755</xmax>
+		<ymin>1418.4099037138928</ymin>
+		<ymax>1701.2599724896838</ymax>
+	</bndbox>
+</object>
+</annotation>

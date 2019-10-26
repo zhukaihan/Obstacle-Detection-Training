@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>83fccce7-32ec-4b16-9a15-fd33c606c60c___iCloud%20Photos_IMG_5973.JPEG</filename>
+<path>formatted data\imgs\83fccce7-32ec-4b16-9a15-fd33c606c60c___iCloud%20Photos_IMG_5973.JPEG</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>2048</width>
+	<height>1536</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1175.3739130434783</xmin>
+		<xmax>1727.4434782608696</xmax>
+		<ymin>186.9913043478261</ymin>
+		<ymax>1482.5739130434781</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>6.79646017699115</xmin>
+		<xmax>2045.7345132743362</xmax>
+		<ymin>9.061946902654867</ymin>
+		<ymax>656.9911504424779</ymax>
+	</bndbox>
+</object>
+</annotation>

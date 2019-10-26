@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>90d4ef8e-7104-44cd-94fc-55f6ae414776___IMG_7934.jpg</filename>
+<path>formatted data\imgs\90d4ef8e-7104-44cd-94fc-55f6ae414776___IMG_7934.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>511.8018575851393</xmin>
+		<xmax>1198.3653250773993</xmax>
+		<ymin>4.1595598349381016</ymin>
+		<ymax>3007.361760660248</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2246.9349845201236</xmin>
+		<xmax>3120.7430340557275</xmax>
+		<ymin>12.478679504814304</ymin>
+		<ymax>682.1678129298487</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>93cc5584-a72a-4804-ab46-8b8a045ae78e___IMG_7947.jpg</filename>
+<path>formatted data\imgs\93cc5584-a72a-4804-ab46-8b8a045ae78e___IMG_7947.jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Uplift</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>470.1919504643963</xmin>
+		<xmax>2921.015479876161</xmax>
+		<ymin>1351.8569463548831</ymin>
+		<ymax>1867.6423658872077</ymax>
+	</bndbox>
+</object>
+</annotation>

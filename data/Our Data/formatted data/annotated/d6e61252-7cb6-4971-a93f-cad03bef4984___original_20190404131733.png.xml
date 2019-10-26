@@ -1,0 +1,92 @@
+<annotation>
+<folder>imgs</folder>
+<filename>d6e61252-7cb6-4971-a93f-cad03bef4984___original_20190404131733.png</filename>
+<path>formatted data\imgs\d6e61252-7cb6-4971-a93f-cad03bef4984___original_20190404131733.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>88.0</xmin>
+		<xmax>114.0</xmax>
+		<ymin>9.0</ymin>
+		<ymax>145.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>175.0</xmin>
+		<xmax>213.0</xmax>
+		<ymin>0</ymin>
+		<ymax>192.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>197.0</xmin>
+		<xmax>319.0</xmax>
+		<ymin>106.0</ymin>
+		<ymax>237.9999999999999</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1.0</xmin>
+		<xmax>115.0</xmax>
+		<ymin>184.0</ymin>
+		<ymax>210.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>99.0</xmin>
+		<xmax>173.0</xmax>
+		<ymin>145.0</ymin>
+		<ymax>185.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>271.0</xmin>
+		<xmax>317.0</xmax>
+		<ymin>73.0</ymin>
+		<ymax>104.0</ymax>
+	</bndbox>
+</object>
+</annotation>

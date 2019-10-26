@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>c77b1e1e-aa41-4261-8436-cd5455977927___zkh_20190331225543.png</filename>
+<path>formatted data\imgs\c77b1e1e-aa41-4261-8436-cd5455977927___zkh_20190331225543.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>140.0</xmin>
+		<xmax>256.0</xmax>
+		<ymin>2.0</ymin>
+		<ymax>111.0</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>b13eedd0-141b-42a3-bcb7-b2e46e38954d___IMG-6407.JPG</filename>
+<path>formatted data\imgs\b13eedd0-141b-42a3-bcb7-b2e46e38954d___IMG-6407.JPG</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>3074.8010610079573</xmax>
+		<ymin>10.685512367491166</ymin>
+		<ymax>582.3604240282685</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>5.347480106100796</xmin>
+		<xmax>3866.2281167108754</xmax>
+		<ymin>539.6183745583039</ymin>
+		<ymax>2345.4699646643107</ymax>
+	</bndbox>
+</object>
+</annotation>

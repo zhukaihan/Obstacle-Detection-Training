@@ -1,0 +1,66 @@
+<annotation>
+<folder>imgs</folder>
+<filename>ad5a9d82-7de3-431a-a985-fa6fa673efa5___Hainan-10_WechatIMG9.jpeg</filename>
+<path>formatted data\imgs\ad5a9d82-7de3-431a-a985-fa6fa673efa5___Hainan-10_WechatIMG9.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>4032</width>
+	<height>3024</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1056.5375139977602</xmin>
+		<xmax>1661.5632698768197</xmax>
+		<ymin>1480.4059701492538</ymin>
+		<ymax>2360.525373134328</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2122.1052631578946</xmin>
+		<xmax>2654.889137737962</xmax>
+		<ymin>1584.2149253731343</ymin>
+		<ymax>2342.4716417910445</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>857.8723404255319</xmin>
+		<xmax>2433.648376259798</xmax>
+		<ymin>2324.417910447761</ymin>
+		<ymax>3014.973134328358</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>8.920353982300885</xmin>
+		<xmax>4027.5398230088495</xmax>
+		<ymin>1422.796460176991</ymin>
+		<ymax>2261.3097345132746</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+<folder>imgs</folder>
+<filename>f5e918a1-15f8-46c3-965d-568333b29b17___zkh_20190326172444.png</filename>
+<path>formatted data\imgs\f5e918a1-15f8-46c3-965d-568333b29b17___zkh_20190326172444.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Edge</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>4.0</xmin>
+		<xmax>317.0</xmax>
+		<ymin>29.0</ymin>
+		<ymax>154.0</ymax>
+	</bndbox>
+</object>
+</annotation>

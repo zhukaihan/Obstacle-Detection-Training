@@ -1,0 +1,40 @@
+<annotation>
+<folder>imgs</folder>
+<filename>d4f9599b-eb71-4856-9dba-3a62f194eed7___zkh_20190326172349.png</filename>
+<path>formatted data\imgs\d4f9599b-eb71-4856-9dba-3a62f194eed7___zkh_20190326172349.png</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>320</width>
+	<height>240</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>76.0</xmin>
+		<xmax>220.0</xmax>
+		<ymin>1.0</ymin>
+		<ymax>180.0</ymax>
+	</bndbox>
+</object>
+<object>
+	<name>Obstacle</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>4.0</xmin>
+		<xmax>115.0</xmax>
+		<ymin>1.0</ymin>
+		<ymax>236.0</ymax>
+	</bndbox>
+</object>
+</annotation>
